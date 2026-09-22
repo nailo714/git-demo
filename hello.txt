@@ -1,6 +1,6 @@
 hello Git        22334242
 hello git      奶龙热补丁修改 同一行修改master主分支中修改，同一行分支修改之后合并的情况
-hello liunx
+hello linux    拉取远端库到本地库，达到远端库修改之后想把远端库数据同步到本地的目的
 hello c
 hello c++
 hello c++
