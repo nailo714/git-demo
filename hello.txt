@@ -1,5 +1,5 @@
 hello Git        22334242
-hello git      奶龙热补丁修改
+hello git      奶龙热补丁修改 同一行修改master主分支中修改
 hello liunx
 hello c
 hello c++
